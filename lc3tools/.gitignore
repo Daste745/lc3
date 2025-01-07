@@ -1,0 +1,5 @@
+*.o
+lex.lc3.c
+
+Makefile
+
